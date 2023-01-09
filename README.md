@@ -18,6 +18,8 @@ There are 2 python files in this project:
   - PIL
   - numpy
   
+ education edition is ment for getting the data to excel and loading images as files (for biology classes)
+  
 #OpenCV Installation On Raspberry Pi That Runs Raspberry Pi OS
 
 On raspberry pi os there are a few extra steps for installing opencv (they are requierd).
